@@ -1,5 +1,7 @@
 # 02 - E-Commerce Component || Advent of JavaScript
 
+![image](demo.gif)
+
 This is the second exercise powered by COMPRESSED<sup>fm</sup> for the [Advent Of Javascript challenge](https://www.adventofjs.com/)
 
 I've made this version with [VueJs](https://fr.vuejs.org/) [Vuex](https://vuex.vuejs.org/) and [Typescript](https://www.typescriptlang.org/)
